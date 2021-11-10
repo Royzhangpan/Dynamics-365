@@ -64,5 +64,5 @@
 ##############################################################################
 # Dynamics 365FO x++ language
 ###############################################################################
-#*.axpp     linguist-language=x++
-#*.xml      linguist-language=x++
+#*.axpp     linguist-language=java
+#*.xml      linguist-language=java
