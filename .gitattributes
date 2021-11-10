@@ -61,3 +61,8 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
+##############################################################################
+# Dynamics 365FO x++ language
+###############################################################################
+#*.axpp     diff=x++
+#*.xml      diff=x++
