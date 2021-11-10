@@ -1,0 +1,1 @@
+该项目利用Azure + Ppower Automate + D365FO 实现自动读取客户邮件发送的订单（PDF格式）然后调用FO的API创建Sales order
